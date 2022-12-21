@@ -1,10 +1,29 @@
-### Hi there 👋
-Welcome to my GitHub page.
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<h1 align="center">Hi 👋, I'm Dionatan</h1>
 
 
+<h3 align="center">Welcome to my GitHub profile!</h3>
+I am a quantitative analyst with a strong background in finance and a passion for solving complex problems with data.
+
+
+<h3 align="left">Skills:</h3>
+
+- ⚙️ Proficient:`.python`, `.sql`, `.html`
+- 🌱 Currently learning all about **Open Source**
+
+<h3 align="left">Skills:</h3>
+
+- 🏢 I'm currently working at **Warren Asset Management**
+- ⚡️ Fun fact: I'm a huge fan of soccer
+
+
+<h3 align="left">Contact:</h3>
+
+- 📫 Reach me: [twitter.com/octofideo](https://twitter.com/octofideo)
+
+<h3 align="left">Contact:</h3>
+
+-
+-
+
+
+Thank you for visiting!
