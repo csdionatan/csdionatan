@@ -12,7 +12,7 @@ I am a quantitative analyst with a strong background in finance and a passion fo
 
 <h3 align="left">Skills:</h3>
 
-- 🏢 I'm currently working at **Sicredi Asset Management**
+- 🏢 I'm currently working at [**Sicredi Asset Management**](https://www.sicredi.com.br/site/asset/)
 - ⚡️ Fun fact: I'm a huge fan of soccer
 
 
