@@ -1,4 +1,4 @@
-# [Seu Nome] | Senior Quantitative Analyst & PhD Student
+# Dionatan | Senior Quantitative Analyst & PhD Student
 
 <h3 align="center">Welcome to my GitHub profile!</h3>
 - ⚡️ Fun fact: I'm a huge fan of soccer
